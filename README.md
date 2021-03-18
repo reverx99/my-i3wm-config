@@ -6,4 +6,5 @@ cp /etc/i3status.conf ~/.config/i3status/config
 For i3:
 ~/.config/i3/config
 
-https://raw.githubusercontent.com/yigits-softwares/yigits-softwares.github.io/main/fotolar/es.png
+![resim](https://user-images.githubusercontent.com/79804960/111690020-c38b4900-883d-11eb-9a15-fe501b3d4452.png)
+
